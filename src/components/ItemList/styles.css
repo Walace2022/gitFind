@@ -11,3 +11,7 @@
     line-height: 1.2;
     margin-top: 8px;
 }
+
+.item-list hr{
+    margin: 1.3rem 0;
+}
